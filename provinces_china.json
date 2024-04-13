@@ -1,0 +1,206 @@
+{
+  "AN": {
+    "name": "Anhui",
+    "capital": "Hefei",
+    "lat": "31.8639",
+    "long": "117.2808"
+  },
+  "BE": {
+    "name": "Beijing",
+    "capital": "Beijing",
+    "lat": "39.9042",
+    "long": "116.4074"
+  },
+  "CQ": {
+    "name": "AChongqing",
+    "capital": "Chongqing",
+    "lat": "29.5630",
+    "long": "106.5516"
+  },
+  "FU": {
+    "name": "Fujian",
+    "capital": "Fuzhou",
+    "lat": "26.0745",
+    "long": "119.2965"
+  },
+  "GA": {
+    "name": "Gansu",
+    "capital": "Lanzhou",
+    "lat": "36.0611",
+    "long": "103.8343"
+  },
+  "GD": {
+    "name": "Guangdong",
+    "capital": "Guangzhou",
+    "lat": "23.1291",
+    "long": "113.2644"
+  },
+  "GX": {
+    "name": "Guangxi",
+    "capital": "Nanning",
+    "lat": "22.8195",
+    "long": "108.3275"
+  },
+  "GZ": {
+    "name": "Guizhou",
+    "capital": "Guiyang",
+    "lat": "26.6477",
+    "long": "106.6302"
+  },
+  "HA": {
+    "name": "Hainan",
+    "capital": "Haikou",
+    "lat": "20.0458",
+    "long": "110.3417"
+  },
+  "HB": {
+    "name": "Heibei",
+    "capital": "Shijiazhuang",
+    "lat": "38.0423",
+    "long": "114.5149"
+  },
+  "HL": {
+    "name": "Heilongjiang",
+    "capital": "Harbin",
+    "lat": "45.8038",
+    "long": "126.5349"
+  },
+  "HE": {
+    "name": "Henan",
+    "capital": "Zhengzhou",
+    "lat": "34.7466",
+    "long": "113.6254"
+  },
+  "HK": {
+    "name": "Hong Kong",
+    "capital": "Hong Kong",
+    "lat": "22.3193",
+    "long": "114.1694"
+  },
+  "HU": {
+    "name": "Hubei",
+    "capital": "Wuhan",
+    "lat": "30.5928",
+    "long": "114.3055"
+  },
+  "HN": {
+    "name": "Hunan",
+    "capital": "Changsha",
+    "lat": "28.2282",
+    "long": "112.9388"
+  },
+  "IM": {
+    "name": "Inner Mongolia",
+    "capital": "Hohhot",
+    "lat": "40.8424",
+    "long": "111.7492"
+  },
+  "JI": {
+    "name": "Jiangsu",
+    "capital": "Nanjing",
+    "lat": "32.0603",
+    "long": "118.7969"
+  },
+  "JX": {
+    "name": "Jiangxi",
+    "capital": "Nanchang",
+    "lat": "28.6829",
+    "long": "115.8582"
+  },
+  "JL": {
+    "name": "Jilin",
+    "capital": "Changchun",
+    "lat": "43.8171",
+    "long": "125.3235"
+  },
+  "LI": {
+    "name": "Liaoning",
+    "capital": "Shenyang",
+    "lat": "41.8057",
+    "long": "123.4315"
+  },
+  "MA": {
+    "name": "Macau",
+    "capital": "Macau",
+    "lat": "22.1987",
+    "long": "113.5439"
+  },
+  "NX": {
+    "name": "Ningxia",
+    "capital": "Yinchuan",
+    "lat": "38.4872",
+    "long": "106.2325"
+  },
+  "QH": {
+    "name": "Qinghai",
+    "capital": "Xining",
+    "lat": "36.6171",
+    "long": "101.7782"
+  },
+  "SA": {
+    "name": "Shaanxi",
+    "capital": "Xian",
+    "lat": "34.3416",
+    "long": "108.9398"
+  },
+  "SD": {
+    "name": "Shandong",
+    "capital": "Jinan",
+    "lat": "36.6512",
+    "long": "117.1200"
+  },
+  "SH": {
+    "name": "Shanghai",
+    "capital": "Shanghai",
+    "lat": "31.2304",
+    "long": "121.4737"
+  },
+  "SX": {
+    "name": "Shanxi",
+    "capital": "Taiyuan",
+    "lat": "37.8706",
+    "long": "112.5489"
+  },
+  "SI": {
+    "name": "Sichuan",
+    "capital": "Chengdu",
+    "lat": "30.5728",
+    "long": "104.0668"
+  },
+  "TA": {
+    "name": "Taiwan",
+    "capital": "Taipei",
+    "lat": "25.0330",
+    "long": "121.5654"
+  },
+  "TI": {
+    "name": "Tianjin",
+    "capital": "Tianjing",
+    "lat": "39.3434",
+    "long": "117.3616"
+  },
+  "TB": {
+    "name": "Tibet",
+    "capital": "Lhasa",
+    "lat": "29.6520",
+    "long": "91.1721"
+  },
+  "XJ": {
+    "name": "Xinjiang",
+    "capital": "Ürümqi",
+    "lat": "43.8256",
+    "long": "87.6168"
+  },
+  "YU": {
+    "name": "Yunna",
+    "capital": "Kunming",
+    "lat": "25.0406",
+    "long": "102.7123"
+  },
+  "ZJ": {
+    "name": "Zhejiang",
+    "capital": "Hangzhou",
+    "lat": "30.2741",
+    "long": "120.1551"
+  }
+}
